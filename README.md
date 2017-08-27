@@ -20,12 +20,12 @@ To solve interesting problems in the company of talented people that I can learn
 
 ## Experience
 
-| Position (Employer) | Tenure |
-| :-: | :-: |
-| [Software Engineer](experience/econolite.md) (Econolite)  | 05/2011 - Present |
-| Help Desk Analyst (Young Life) | 11/2010 - 05/2011 |
-| Tier 3 Tech Support (T-Mobile) | 08/2009 - 11/2010 |
-| Test Technician (Tech For Less)| 08/2007 - 06/2009  |
+| Position | Employer | Tenure |
+| :-- | :-- | :-: |
+| [Software Engineer](experience/econolite.md) | Econolite | 05/2011 - Present |
+| Help Desk Analyst | Young Life | 11/2010 - 05/2011 |
+| Tier 3 Tech Support | T-Mobile | 08/2009 - 11/2010 |
+| Test Technician | Tech For Less | 08/2007 - 06/2009  |
 
 
 
