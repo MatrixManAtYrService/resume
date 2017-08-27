@@ -1,8 +1,9 @@
 ### Econolite, Software Engineer, 07/2011 - Present
 
+Econolite sells traffic systems software and hardware.
+
 #### Sustaining Development
 
-Econolite sells traffic systems software and hardware.
 For my first four years with Econolite I performed maintenance bug fixes and added minor features to our [ATMS](https://en.wikipedia.org/wiki/Advanced_Traffic_Management_System) product (mostly C# and SQL).
 
 Despite no prior knowlege of these technologies, I emerged as the subject matter expert for:
@@ -14,13 +15,13 @@ Despite no prior knowlege of these technologies, I emerged as the subject matter
 Achievements in code:
 
  - The menu system
-   - It seems trivial, but as the top of the call stack for any given module, a menu item is the appropriate place for dependency injection to start (in our case).
+   - It seems trivial, but as the top of the call stack for any given module, a menu item is the appropriate place for dependency injection to start.
    - This insight allowed us to reuse large pieces of UI functionality from an earlier design and isolated much of the team from the complexities of dependency management at the top level.
    - Designed an API that allowed contributors to control menu item properties in a way that did not require an explicit layout for each customer configuration (there are many).
  - A translator that accepts the European standard for signal control (stages) and converts it to the US standard (phases).
  - A visualization of how time is allocated across phases in a timing plan that updates while the user configures the plan.
  - Widespread UI modifications to support a new signal controller feature (Flashing Yellow Arrow Overlaps)
- - Brought many unit tests up to snuff so we could enable test running as part of continuous integration
+ - Brought many unit tests up to snuff so we could enable test runs as part of continuous integration
 
 #### R&D
 
@@ -58,7 +59,7 @@ Achievements in code:
    - Optional Websockets API with failover to HTTP
      - Ignores responses (supports PUT and POST only) because waiting for REST responses was too slow
    - Source/sink semantics hides transport-layer details from library developers
-   - Use of functional programming concepts allows ease of configuration
+   - Use of functional programming concepts allows flexible configuration
  - Sensor-type-agnostic operation with plugin-based extensibility
  - [v2i-unofficial](https://github.com/MatrixManAtYrService/v2i-unofficial), a fork of the FHWA's open source message hub.
    - modified it to run on ARM
