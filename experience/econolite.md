@@ -21,7 +21,7 @@ Achievements in code:
  - A translator that accepts the European standard for signal control (stages) and converts it to the US standard (phases).
  - A visualization of how time is allocated across phases in a timing plan that updates while the user configures the plan.
  - Widespread UI modifications to support a new signal controller feature (Flashing Yellow Arrow Overlaps)
- - Brought many unit tests up to snuff so we could enable test running as part of continuous integration
+ - Brought many unit tests up to snuff so we could enable test runs as part of continuous integration
 
 #### R&D
 
