@@ -4,9 +4,9 @@ To solve interesting problems in the company of talented people that I can learn
 
 ## Personality
 
- - Curious thinker; interests include pure math, education, IPFS, and open source things
  - Strong written and verbal communicator
  - Responds to obstacles with creativity and persistance
+ - Independently motivated, also happy working closely with a team
  - [more...](personality/index.md)
 
 ## Education
