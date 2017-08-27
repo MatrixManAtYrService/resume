@@ -1,3 +1,4 @@
-This page is missing because you're looking at the master branch.
+I wore many hats at Econolite.  Try one of these:
 
-TODO: links to branches for specific positions
+- [Deveopment](https://github.com/MatrixManAtYrService/resume/blob/Automation/experience/econolite.md)
+- [Automation](https://github.com/MatrixManAtYrService/resume/blob/Development/experience/econolite.md)
