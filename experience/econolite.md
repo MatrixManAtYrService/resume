@@ -65,6 +65,9 @@ Achievements in code:
    - modified it to run on ARM
    - automated the build process
    - our project links to their binaries for message decoding to ensure compatibility with standards
+ - Status Stream Debugging Stub
+   - Learned Javascript so I could host the stub in a single html file
+   - Supports subscription of various data items and viewing of raw data for altorithm verification
 
 This project is a step towards replacing an older product which had become too complicated to maintain.
 I was chosen for this because of prior Linux and C++ knowledge, and also because I had demonstrated a grasp of object oriented design principles and a commitment to writing testable code.
