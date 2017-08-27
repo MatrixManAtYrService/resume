@@ -3,7 +3,7 @@
 #### Sustaining Development
 
 Econolite sells traffic systems software and hardware.
-For my first four years with Econolite I performed maintenance bug fixes and added minor features to our [ATMS](https://en.wikipedia.org/wiki/Advanced_Traffic_Management_System) product (C#, SQL).
+For my first four years with Econolite I performed maintenance bug fixes and added minor features to our [ATMS](https://en.wikipedia.org/wiki/Advanced_Traffic_Management_System) product (mostly C# and SQL).
 
 Despite no prior knowlege of these technologies, I emerged as the subject matter expert for:
 
