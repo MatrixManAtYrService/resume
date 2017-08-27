@@ -10,7 +10,7 @@ Here is a table of how my personality is evaluated by a few well known systems.
 
 -------
 
-Here is a list of things that I like
+Here is a list of things that I like.
 
 - open source things
 - [IPFS](https://ipfs.io/)
