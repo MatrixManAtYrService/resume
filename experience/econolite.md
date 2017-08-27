@@ -58,7 +58,7 @@ Achievements in code:
    - Optional Websockets API with failover to HTTP
      - Ignores responses (supports PUT and POST only) because waiting for REST responses was too slow
    - Source/sink semantics hides transport-layer details from library developers
-   - Use of functional programming concepts allows ease of configuration
+   - Use of functional programming concepts allows flexible configuration
  - Sensor-type-agnostic operation with plugin-based extensibility
  - [v2i-unofficial](https://github.com/MatrixManAtYrService/v2i-unofficial), a fork of the FHWA's open source message hub.
    - modified it to run on ARM
