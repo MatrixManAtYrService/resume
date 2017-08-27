@@ -14,7 +14,7 @@ Despite no prior knowlege of these technologies, I emerged as the subject matter
 Achievements in code:
 
  - The menu system
-   - It seems trivial, but as the top of the call stack for any given module, a menu item is the appropriate place for dependency injection to start (in our case).
+   - It seems trivial, but as the top of the call stack for any given module, a menu item is the appropriate place for dependency injection to start.
    - This insight allowed us to reuse large pieces of UI functionality from an earlier design and isolated much of the team from the complexities of dependency management at the top level.
    - Designed an API that allowed contributors to control menu item properties in a way that did not require an explicit layout for each customer configuration (there are many).
  - A translator that accepts the European standard for signal control (stages) and converts it to the US standard (phases).
