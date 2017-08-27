@@ -1,5 +1,5 @@
 
-There are systems for evaluating personality traits.  Here is a table of how I look according to those systems.
+Here is a table of how my personality is evaluated by a few well known systems.
 
 | Personality Evaluation | Result |
 | :--------------------- | :------|
