@@ -10,4 +10,22 @@ Here is a table of how my personality is evaluated by a few well known systems.
 
 -------
 
+Here is a list of things that I like
+
+- open source things
+- [IPFS](https://ipfs.io/)
+- cryptoeconomics
+- symbolic logic
+- pure mathematics
+- theoretical physics
+- writing
+- beautiful code
+- school
+- yoga
+- my bicycle
+- rock climbing
+- teaching
+
+-------
+
 [back to resume](../README.md)
