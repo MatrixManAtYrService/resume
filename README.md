@@ -21,4 +21,12 @@ To solve interesting problems in the company of talented people that I can learn
 
 ## Experience
 
+|Software Engineer (Econolite) | [more detail](experience/econolite.md) |
+|Team Lead: Sky Project<br>7/2015 - Present[more detail](experience/econolite.md)| <ul><li>Led development from inception</li><li>Primary architect/designer</li><li>Developed infrastructure to support new platform</li><li>Guided junior engineers toward code maturity</li></ul>|
+|Developer <br>5/2011 - 7/2015| <ul><li>Led development from inception</li><li>Primary architect/designer</li><li>Developed infrastructure to support new platform</li><li>Guided junior engineers toward code maturity</li></ul>|
+
+
+
+
+
 
